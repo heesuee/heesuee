@@ -1,8 +1,20 @@
 ## Hello, I'm Heesu! 👋
 
+- 👩‍💻 FE Newbie, recently started learning Frontend development.
+- 🌟 PM & Designer on a creative journey.
+- 🚀 Passionate about merging design and code.
+- 💡 Excited to create awesome user experiences!
+
+### Work Experience
+LINE+ PM / 2024/02-
+LINE+ UX Designer 2022/11-2024/01
+
+### Activities
+Self studying...
+
+
 <!--
 **heesuee/heesuee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
