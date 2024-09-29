@@ -6,7 +6,7 @@
 - 💡 Excited to create awesome user experiences!
 
 ### Work Experience
-LINE+ PM / 2024/02-
+LINE+ PM / 2024/02-  
 LINE+ UX Designer 2022/11-2024/01
 
 ### Activities
